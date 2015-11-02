@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config version="1">
+  <skins default="1">
+    <skin id="1" title="测试皮肤" location="../assets/my/player/t3.zip" />
+    <skin id="2" title="Windows Media Player" location="../assets/my/player/WMP10.skn" />
+  </skins>
+  <playlists>
+    <category id="1" title="热门榜单">
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        48小时热听排行榜
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        华语歌曲排行榜
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        日韩歌曲排行榜
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        欧美歌曲排行榜
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        歌曲下载排行榜
+      </playlist>
+    </category>
+    <category id="2" title="热门歌手">
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        陈奕迅
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        梁静茹
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        周杰伦
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        林俊杰
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        张学友
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        王力宏
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        王菲
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        Avril Lavigne
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        莫文蔚
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        Joe Hisaishi
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        许巍
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        筷子兄弟
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        陈绮贞
+      </playlist>
+    </category>
+    <category id="3" title="淘歌专辑">
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        我为什么总在非常脆弱的时候怀念你
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        给自己的歌
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3" default="true">
+        如果这就是爱情
+      </playlist>
+      <playlist location="../assets/song/playlist/id/2142153/type/3">
+        ╱╳┆他們、都有被聆聽的理由
+      </playlist>
+    </category>
+  </playlists>
+  <uid>687147</uid>
+</config>

@@ -1,0 +1,145 @@
+<skin version="2" name="t3" author="lotreal" url="http://aipotu.blog128.fc2.com/" email="ididi2009@163.com" transparent_color="#ff00ff">
+  <player_window image="player_skin.bmp">
+    <default_button position="" image="default_button.bmp" />
+
+    <star position="" image="star.bmp" />
+    <fav position="" image="fav.bmp" />
+    <share position="" image="share.bmp" />
+
+    <play position="33,10,66,45" image="play.bmp"/>
+    <pause position="33,10,66,45" image="pause.bmp"/>
+    <stop position="67,15,89,38" image="stop.bmp"/>
+    <prev position="10,15,32,38" image="prev.bmp"/>
+    <next position="90,15,112,38" image="next.bmp"/>
+
+
+    <open position="174, 103, 192,126" image="open.bmp"/>
+
+    
+    <mute position="33, 50, 47, 63" image="mute.bmp" />
+    
+    <lyric position="43, 115, 58, 129" image="lyric.bmp"/>
+    <equalizer position="12, 115, 27, 129" image="equalizer.bmp"/>
+    <playlist position="28,115,43,129" image="playlist.bmp"/>
+    
+    
+    <browser position="261, 42, 281, 82" image="browser.bmp" />
+    
+    <minimize position="220, 4, 237, 17" image="minimize.bmp"/>
+    <minimode position="241, 4, 258, 17" image="minimode.bmp"/>
+    <exit position="262, 4, 279, 17" image="close.bmp"/>
+    
+    
+    <progress position="9, 71, 289,100" bar_image="scrollbar_bar.bmp" thumb_image="ptb.bmp" fill_image="progress_fill.bmp"/>
+    <volume position="60, 50, 120, 68" bar_image="scrollbar_bar.bmp" thumb_image="ptb.bmp" fill_image="progress_fill.bmp" />
+    <!-- <volume position="60, 50, 100, 68" vertical="false" bar_image="" thumb_image="" fill_image="progress2.bmp"/> -->
+    
+    <icon position="6, 6, 22, 22" icon="icon.ico"/>
+    
+    <info position="70, 37, 259, 50" color="#ad4d00" font="Tahoma" font_size="13" align="left"/>
+    <led position="8, 36, 62, 50" image="number.bmp" align="right"/>
+    <stereo position="183, 71, 259, 84" color="#ad4d00" font="Tahoma" font_size="13" align="left" />
+    <status position="183, 55, 259, 68" color="#ad4d00" font="Tahoma" font_size="13" align="left" />
+    <visual position="13, 54, 168,86"/>
+  </player_window>
+  
+  
+  
+  
+  
+  <lyric_window position="0, 369, 283, 468" resize_rect="53, 23, 215, 48" image="lyric_skin.bmp">
+    <lyric position="3, 23, 281, 50"/>
+    <close position="262, 4, 279, 17" image="close.bmp" align="right"/>
+    <ontop position="241, 4, 258, 17" image="ontop.bmp" align="right"/>
+    <desklrc position="220, 4, 237, 17" image="desklrc.bmp" align="right"/>
+    <mini_border left_top_color="#000000" right_bottom_color="#000000" />
+  </lyric_window>
+  
+  
+  
+  
+  
+  <equalizer_window position="0, 131, 284, 222" image="eq_skin.bmp" eq_interval="13">      
+    
+    <close position="262, 4, 279, 17" image="close.bmp" align="right"/>
+    
+    
+    <enabled position="162, 2, 190, 20" image="eq_enabled.bmp"/>
+    <profile position="193, 2, 221, 20" image="eq_profile.bmp"/>
+    <reset position="224, 2, 252, 20" image="reset.bmp"/>
+    
+    <balance position="13, 43, 55, 51" thumb_image="eqtb2.bmp" bar_image=""  fill_image="eqfill.bmp"/>
+    <surround position="13, 73, 55, 81" thumb_image="eqtb2.bmp" bar_image=""  fill_image="eqfill.bmp"/>
+    
+    <preamp position="71, 32, 75, 81" thumb_image="eqtb.bmp" bar_image=""  fill_image="eqfactor_full.bmp"/>
+    <eqfactor position="108, 32,112, 81" thumb_image="eqtb.bmp" bar_image="" fill_image="eqfactor_full.bmp"/>
+  </equalizer_window>
+  
+  
+  
+  <playlist_window position="0, 222, 284, 369" resize_rect="76, 33, 213, 63" image="playlist_skin.bmp">
+    <close position="262, 4, 279, 17" image="close.bmp" align="right"/>
+    <toolbar position="65, 71, 219, 90" image="playlist_toolbar.bmp" hot_image="playlist_toolbar_hot.bmp" align="bottom+center"/>
+    <scrollbar buttons_image="scrollbar_button.bmp" thumb_image="scrollbar_thumb.bmp" bar_image="scrollbar_bar.bmp" align="center"/>
+    <playlist position="5, 35, 279, 62" selected_image="playlist_selected.bmp"/>
+  </playlist_window>
+  
+  
+  
+  <mini_window image="mini-player.bmp">
+    <play position="174, 4, 196, 25" image="play_mini.bmp" />
+    <pause position="174, 4, 196, 25" image="play_mini.bmp" />		
+    <prev position="153, 4, 174, 25" image="prev_mini.bmp" />
+    <next position="196, 4, 217, 25" image="next_mini.bmp" />
+    <open position="217, 4, 238, 25" image="openmini.bmp" />
+    <mute position="238, 4, 259, 25" image="mutemini.bmp" />
+    
+    
+    
+    <lyric position="294, 8, 305, 22" image="lyric_mini.bmp" />
+    <minimode position="280, 8, 291, 22" image="fullmode.bmp" />
+    <minimize position="267, 8, 278, 22" image="minimize_mini.bmp" />
+    <exit position="307, 8, 318, 22" image="close_mini.bmp" />
+    
+    <icon position="4, 6,20, 22" icon="icon.ico"/>    
+    
+    <info position="64, 5, 143, 17" color="#8b3100" font="Tahoma" font_size="13" align="left"/>
+    <progress position="32, 21, 138,24" bar_image="" thumb_image="pmini.bmp" fill_image=""/>
+    <led position="32, 5, 62, 17" image="numbermini.bmp" align="right"/>
+  </mini_window>
+  
+  
+  
+  <desklrc_bar image="desklrc_bar.bmp" transparent_color="#ff00ff">
+    <icon position="1114, 11114, 111120, 111120" icon="x.ico" />
+    
+    <play position="31, 2, 45, 20" image="desklrc_play.bmp" />
+    <pause position="31, 2, 45, 20" image="desklrc_play.bmp" />		
+    <prev position="15, 2, 29, 20" image="desklrc_prev.bmp" />
+    <next position="48, 2, 62, 20" image="desklrc_next.bmp" />
+    <list position="65,2, 79, 20" image="desklrc_list.bmp" />
+    
+    <settings position="87, 2, 104, 20" image="desklrc_settings.bmp" />
+    <kalaok position="105, 2, 122, 20" image="desklrc_kalaok.bmp" />
+    <lines position="122, 2, 139, 20" image="desklrc_lines.bmp" />
+    <lock position="139, 2, 156, 20" image="desklrc_lock.bmp" />
+    <ontop position="156, 2, 173, 20" image="desklrc_ontop.bmp"/> 
+    
+    <return position="175, 4, 184, 16" image="desklrc_return.bmp"/>    
+    <close position="184, 4, 193, 16" image="desklrc_close.bmp" />
+  </desklrc_bar>
+  
+  
+  
+  <browser_window position="284, 0, 749, 468" image="browser_skin.bmp" transparent_color="#ff00ff">
+    <close position="445, 4, 462, 17" image="close.bmp" />
+    
+    <backward position="132, 2, 162, 20" image="browser_backward.bmp" />
+    <forward position="194, 2, 224, 20" image="browser_forward.bmp" />
+    <refresh position="163, 2,192, 20" image="browser_refresh.bmp" />
+    
+    <startup position="5, 453, 111, 465" ckbox_image="browser_startup.bmp" interval=4 color="#e58310" font="SimSun" font_size="12" />
+    <linktxt position="256, 453, 461, 465" color="#5c6f82" font="SimSun" font_size="12" />
+    <browser position="4, 22, 462, 448" />
+  </browser_window>
+</skin>
